@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Hunter
+            Coin Agent
           </Typography>
           <Typography
             variant="subtitle2"
