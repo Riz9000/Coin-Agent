@@ -1,1 +1,1 @@
-# Coin Agent which is a crypto coins tracker made with React JS, Material UI and Chart JS, and Firebase is integrated in it.
+# Coin-Agent is a cryptocurrency tracker application created by using ReactJS, Material UI and Chart.JS, and Firebase is integrated in it.
